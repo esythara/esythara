@@ -1,3 +1,3 @@
-## Hi! I'm Esythara!
+#### Frontend Developer and Web Designer with a passion for making websites both functional and elegant. Working in the industry for 3 years, I've been a huge part of developing and releasing over 20 websites in a range of industries, helping make a great user experience and venturing into PHP and backend languages to be a better all-round developer.
 
-I'm a Web Developer that has experience utilising, HTML, CSS (SASS), Javascript (JQuery/AJAX), PHP, SQL, Frameworks (Laravel, Bootstrap4) and back-end site management, utilising Plesk, cPanel, Namecheap (SSL), Security, FTP Access, phpMyAdmin, SequelPro, MySQL WorkBench, BitBucket and more. 
+#### Languages: PHP, jQuery, Javascript, Vue, Bootstrap4, Laravel, SCSS, JSON, MongoDB, mySQL.
