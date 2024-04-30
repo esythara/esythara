@@ -1,17 +1,14 @@
-#### Experienced Frontend Developer and Web Designer driven by a passion for learning and creating seamlessly functional, elegant websites. With three years in the IT industry, I’ve played a pivotal role in the development and launch of over 20 websites across various industries. Additionally, I’ve delved into PHP and backend languages to further enhance my skills as a versatile developer.
+#### Experienced Frontend Developer and Web Designer with three years of diverse experience, adept at crafting intuitive websites with/without Frameworks such as React & Next.js. I’ve personally influenced over 25+ website launches across various sectors of the market, and have made conscious efforts to expand my skills to include backend languages like PHP using frameworks like Laravel. Additionally, I excel in leveraging technologies such as Ruby, and various APIs to optimize workflows and enhance UX. Publish several Google and Apple apps, built and tailored to clients needs using SCSS. 
 
 - BSC Level 3 Certificate in Software Development – Context and Methodologies,
-- HTML & CSS/SCSS - 5 years,
-- Javascript, jQuery & JSON - 3 years,
-- Typescript - 1 year,
-- PHP - 2 years,
-- SQL - 2 years,
-- WordPress, Sage/Homebrew & Bootstrap4 - 2 years,
-- MVC - 2 years,
+- HTML & SCSS/Tailwind - 5 years,
+- Javascript, jQuery, AJAX & JSON - 3 years,
+- WordPress - 3 years,
+- PHP/Laravel - 2 years,
+- MySQL - 2 years,
+- React/Next.js - 1 year,
+- Ruby - > 1 year.
 - cPanel/Plesk - 2 years,
-- JIRA/Asana/BitBucket - 2 years,
-- Laravel - 1 year,
-- Vue - 1 year,
-- Zoho CRM & Zapier - 1 year,
-- MAC & PC Platforms - 3 years,
-- Node.js - > 1 year.
+- Framer Motion & GSAP - 1 year,
+- JIRA/Asana/BitBucket/ClickUp/Trello - 2 years,
+- Zoho CRM & Zapier - 1 year
